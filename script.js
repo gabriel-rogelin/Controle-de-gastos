@@ -36,3 +36,8 @@ function adicionarGasto(){
     document.getElementById("descricao").value = "";
     document.getElementById("valor").value = "";
 }
+
+
+function excluirgasto(){
+    
+}
